@@ -4,4 +4,5 @@
 
 ## Jours 1 25/03
 Apprentissage du fonctionnement de python dans Blender via les tuto sur Youtube de Motion Live Tech.
-[bidule.py]
+
+[bidule.py](bidule.py)
