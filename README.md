@@ -25,5 +25,4 @@ mais le résulat n'était pas satisfaisant .
 J'ai donc plutot générer des courbes de beziers avec des paramêtre aleatoire se qui a permis d'avoir un base pour un tronc plus oragnique avec des coubures aleatoire.
 J'ai ainsi realiser aussi les première branche de l'arbre . Un probleme persiste il faut que je fasse concorder le bout du tronc et le départ des branches.
 
-Code: [ProjetArbre.py](ProjetArbre.py)
-Code + Visuel 3D: [ProjetArbre.blend](ProjetArbre.blend)
+Code: [ProjetArbre.py](ProjetArbre.py) / Code + Visuel 3D: [ProjetArbre.blend](ProjetArbre.blend)
