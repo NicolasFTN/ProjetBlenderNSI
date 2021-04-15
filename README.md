@@ -28,6 +28,6 @@ J'ai ainsi realiser aussi les première branche de l'arbre . Un probleme persist
 Code: [ProjetArbre.py](ProjetArbre.py) / Code + Visuel 3D: [ProjetArbre.blend](ProjetArbre.blend)
 
 ## 15/03
-J'ai passé beaucoup d'heures sur le projet aujourd'hui le programme a enormement avancer . J'ai regler le probleme de la dernière session. J'ai fait apparaitre les feuilles sur les branches de mon arbre , donner de l'épaisseur au tronc, et ajouter des couleurs a l'arbre mais j'ai un probleme dans mon code que je n'arrive pas a regler et c'est essentiel pour pouvoir donner de la couleur au tron.
+J'ai passé beaucoup d'heures sur le projet aujourd'hui le programme a enormement avancer . J'ai regler le probleme de la dernière session. J'ai fait apparaitre les feuilles sur les branches de mon arbre , donner de l'épaisseur au tronc, et ajouter des couleurs a l'arbre mais j'ai un probleme dans mon code que je n'arrive pas a regler et c'est essentiel pour pouvoir donner de la couleur au tronc.
 
 Code: [ProjetArbre1.py](ProjetArbre1.py) / Code + Visuel 3D: [ProjetArbre1.blend](ProjetArbre1.blend)
