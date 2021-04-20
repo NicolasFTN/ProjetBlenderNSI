@@ -31,3 +31,10 @@ Code: [ProjetArbre.py](ProjetArbre.py) / Code + Visuel 3D: [ProjetArbre.blend](P
 J'ai passé beaucoup d'heures sur le projet aujourd'hui le programme a enormement avancer . J'ai regler le probleme de la dernière session. J'ai fait apparaitre les feuilles sur les branches de mon arbre , donner de l'épaisseur au tronc, et ajouter des couleurs a l'arbre mais j'ai un probleme dans mon code que je n'arrive pas a regler et c'est essentiel pour pouvoir donner de la couleur au tronc.
 
 Code: [ProjetArbre1.py](ProjetArbre1.py) / Code + Visuel 3D: [ProjetArbre1.blend](ProjetArbre1.blend)
+
+
+## 20/03
+Changement de methode je n'utilise plus les particules hair dans blender mais je vais importer un objet feuille que je vais dupliquer le long de chaque branches
+via des listes et leurs index
+
+Code: [ProjetArbre2.py](ProjetArbre2.py) / Code + Visuel 3D: [ProjetArbre2.blend](ProjetArbre2.blend)
