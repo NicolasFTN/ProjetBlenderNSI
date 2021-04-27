@@ -39,7 +39,7 @@ via des listes et leurs index
 
 Code: [ProjetArbre2.py](ProjetArbre2.py) / Code + Visuel 3D: [ProjetArbre2.blend](ProjetArbre2.blend)
 
-## 20/03
+## 27/03
 codage importation feuille et aplication des contraines et des modifiers
 
 Code: [ProjetArbre3.py](ProjetArbre3.py) / Code + Visuel 3D: [ProjetArbre3.blend](ProjetArbre3.blend)
