@@ -10,6 +10,8 @@ creation d'arbre aleatoire via le logiciel blender avec python
 
 ## Cahier journal
 
+Attention les codes donnés ci-dessous son executable uniquement dans le logiciel Blender version 1.9 et versions ultérieures. Les fichiers blender sont directement donner avec le code intégrer . Mais le code python est lui aussi données à part même si celui-ci utilise les modules Blender. Le résultat ne peut pas être afficher en dehors de Blender
+
 ## 25/03
 
 Apprentissage du fonctionnement de python dans Blender via les tuto sur Youtube de Motion Live Tech.
@@ -43,3 +45,9 @@ Code: [ProjetArbre2.py](ProjetArbre2.py) / Code + Visuel 3D: [ProjetArbre2.blend
 codage importation feuille et aplication des contraines et des modifiers
 
 Code: [ProjetArbre3.py](ProjetArbre3.py) / Code + Visuel 3D: [ProjetArbre3.blend](ProjetArbre3.blend)
+
+## 29/03
+le programme fonctionne quelques ajouts et reglages reste encore à faire.
+J'ai utiliser une variable x dans ma boucle for qui lui ajoute 1 a chaque répétiton se meme x va être convertie en str a la fin de chaque nom d'objet créer se qui me permet de les nommés precisemment et faire des actions independament sur chaque objet
+
+Code: [ProjetArbre4.py](ProjetArbre4.py) / Code + Visuel 3D: [ProjetArbre4.blend](ProjetArbre4.blend)
